@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portafolio-david/static/css/main.cf12008b.css",
+    "main.js": "/portafolio-david/static/js/main.ebfe91e7.js",
+    "static/media/coverVideo.mp4": "/portafolio-david/static/media/coverVideo.a2504cb1f77c6120e48a.mp4",
+    "static/media/portfolio.jpeg": "/portafolio-david/static/media/portfolio.d07bb64ffd64010e5739.jpeg",
+    "static/media/ultimoProyecto.jpg": "/portafolio-david/static/media/ultimoProyecto.3efd7bc62a37418aacf8.jpg",
+    "static/media/soapPet.jpg": "/portafolio-david/static/media/soapPet.10b5475bc83e8f5705f2.jpg",
+    "static/media/socioExtrategico.jpg": "/portafolio-david/static/media/socioExtrategico.2f6a40dee4208421ca59.jpg",
+    "index.html": "/portafolio-david/index.html",
+    "main.cf12008b.css.map": "/portafolio-david/static/css/main.cf12008b.css.map",
+    "main.ebfe91e7.js.map": "/portafolio-david/static/js/main.ebfe91e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf12008b.css",
+    "static/js/main.ebfe91e7.js"
+  ]
+}
